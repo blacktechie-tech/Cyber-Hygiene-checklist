@@ -16,7 +16,8 @@ CSS – to style and improve the user interface
 
 JavaScript – to track and display the number of completed items
 
- # 📊 Key Features
+ 
+📊 Key Features
 Simple and clean checklist design
 
 Real-time counter that shows progress as users tick boxes
